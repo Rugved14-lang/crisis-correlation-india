@@ -2,7 +2,7 @@
 
 An interactive study of correlation and volatility across Indian large-cap stocks in calm vs. stressed markets.
 
-**Live app:** (link goes here after you deploy)
+**Live app:**    https://nifty-crisis-correlation.streamlit.app
 
 ## Question
 When markets crash, do stocks that normally move independently start moving together?
